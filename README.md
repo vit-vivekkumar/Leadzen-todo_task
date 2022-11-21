@@ -1,14 +1,14 @@
-# Django Todo React
+Create a simple TODO web App with following features
+• Add Task
+• Delete Task
+• Mark as Completed
+• List of Tasks
+• List of Completed Tasks
+• List of Pending Tasks
 
-Create todo app with Django and React.
+## Used Tools
 
-#
-
-## Tools
-
-- Django 4
-- React Js
-- Python 3
+- Django, ReactJS
 
 #
 
@@ -16,37 +16,23 @@ Create todo app with Django and React.
 
 ## Download Codes
 
-```
-git clone https://github.com/dori-dev/django-todo-react.git
-```
-
-```
-cd django-todo-react
-```
 
 ## Install Backend Requirements
 
 ```
-pip install pipenv
+pip install  requirements. txt
 ```
 
-```
-pipenv shell
-```
-
-```
-pipenv install
-```
 
 ## Install Frontend Dependencies
 
 ```
 cd frontend
 ```
-
+todo_frontend
 ```
 npm install
-npm audit
+
 ```
 
 ## Migrate Backend Models
@@ -78,7 +64,7 @@ python manage.py runserver
 
 ## Run FrontEnd
 
-open new terminal in `frontend` directory and run this command.
+open new terminal in `todo_frontend` directory and run this command.
 
 ```
 npm start
@@ -87,15 +73,7 @@ npm start
 ## Open On Browser
 
 App Page
-[localhost:3000](http://localhost:3000/)
+[localhost:3000]
 
 Django Admin Page
-[127.0.0.1:8000/admin](http://127.0.0.1:8000/admin)
-
-#
-
-## Links
-
-Download Source Code: [Click Here](https://github.com/dori-dev/django-todo-react/archive/refs/heads/master.zip)
-
-My Github Account: [Click Here](https://github.com/dori-dev/)
+[127.0.0.1:8000/admin]
