@@ -14,8 +14,6 @@ Create a simple TODO web App with following features
 
 # How to Run Project
 
-## Download Codes
-
 
 ## Install Backend Requirements
 
